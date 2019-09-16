@@ -1,0 +1,13 @@
+*{
+	text-align: center;
+	font-family: 'Sansita', sans-serif;
+}
+
+body{
+	background-color: rgb(2,19,48) ;
+	color: white ;
+	border-left: 60px solid rgb(0,207,195);
+	/*border-left-color: rgb(0,207,195);*/ 
+	border-right :60px solid rgb(0,207,195);
+	border-bottom :60px solid rgb(0,207,195);
+}

@@ -1,0 +1,54 @@
+body{
+	background-color: rgb(2,19,48) ;
+	color: white ;
+	border-left: 60px solid rgb(0,207,195);
+	/*border-left-color: rgb(0,207,195);*/ 
+	border-right :60px solid rgb(0,207,195);
+	border-bottom :60px solid rgb(0,207,195);
+}
+
+*{
+	font-family: 'Sansita', sans-serif;
+	text-align: center ;
+}
+
+#p1{
+	font-size: 19px ;
+	padding-top: 5em ;
+	padding-bottom: 4em ;
+	padding-left: 21% ;
+	padding-right: 21% ;
+}
+
+#p2{
+	/*padding-top: 6em ;*/
+	font-size: 19px ;
+	padding-bottom: 1em ;
+	padding-left: 21% ;
+	padding-right: 21% ;
+}
+
+#H2{
+	padding-bottom: 2em ;
+}
+
+#fname{
+	font-size: 22px;
+}
+
+#lname{
+	font-size: 22px;
+}
+
+#useremail{
+	font-size: 22px;
+}
+
+#submit{
+	margin-top: 5px ;
+	font-size: 1.5em ;
+	/*padding: 1em 1em 1em 1em ; */
+	border: 10px solid rgb(255,157,0) ;
+	background-color: rgb(255,157,0) ;
+	border-radius: 25px ;
+}
